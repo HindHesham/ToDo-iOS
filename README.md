@@ -8,6 +8,7 @@ Todo is an iOS App written in Swift
 
 - Persistent task lists (Categories / Items) using Core Data
 - Save / Delete categories or category’s Items
+- Searching using SearchBar in category’s Items
 - Mark task's items as done
 - Support Chameleon Framework for adding some colors to the app
 
